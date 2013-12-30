@@ -6,7 +6,12 @@
     <name> whats </name>
 
     <description>
-        
+        Example useful features description:
+- View our delicious food menu on the go
+- Stay up to date with our restaurant at anytime
+- Unlock coupon rewards for frequent visits
+- Receive exclusive mobile coupons
+- Email us photos to appear inside our restaurant
     </description>
 
     <author href="http://sumedhasoftech.com" email="mail@sumedhasoftech.com">
@@ -36,7 +41,7 @@
     <preference name="fullscreen"       value="false" />
     <preference name="webviewbounce"    value="true" />
     <preference name="stay-in-webview" value="true" />
-	<preference name="prerendered-icon" value="true"/>
+	<preference name="prerendered-icon" value="false"/>
 
     <icon src="icon.png" />
     <icon src="res/icon/android/_app_icon_32x32.png"   gap:platform="android"    gap:density="ldpi" />
